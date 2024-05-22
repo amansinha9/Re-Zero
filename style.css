@@ -1,0 +1,159 @@
+h1 {
+	background: magenta;
+	text-align: center;
+}
+
+header {
+	background-color: #eee;
+	position: sticky
+	/*padding: 10px 20px; 
+	display: flex; /* Use Flexbox for layout */
+	justify-content: space-between; /* Align items horizontally */
+	align-items: center; /* Align items vertically */
+	
+  }
+
+.Title {
+	display: inline;
+	/*position: sticky;*/
+	top: 0px;
+}
+
+body {
+	display: flex;
+	min-height: 200vh; /* Ensures viewport height */
+	flex-direction: column;
+	background:;
+  }
+
+nav ul {
+	position: relative;
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+	margin: 5px;
+	padding: 5px;
+}
+
+li {
+	positiion: absolute;
+	float: left;
+	margin-right: 5px;
+	padding: 5px;
+	list-style-type: none;
+	background: yellow;
+	color: darkgreen;
+}
+
+.Search_bar {
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+
+/* footer {
+	display: flex;
+	flex-direction: row;
+	background-color: #eee;
+	color: #333;
+	justify-content: center;
+	align-items: center;
+} */
+
+footer {
+	display: flex;
+	border: 1px solid black;
+	margin: 10px;
+  }
+
+.F-1 {
+	padding: 5px;
+	background: rgb(219, 219, 219);
+	width: 100%;
+	border: 1px black;
+	text-align: center;
+}
+
+.Logo {
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+#logo {
+	position: absolute;
+	float: left;
+	margin-right: 10px;
+	top: 0px;
+	left: 0px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 200px;
+	height: 100px;
+}
+
+.Streaming {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.Streaming div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100px;
+	flex-basis: 200px;
+	border: 2px solid black;
+	height: 50px;
+	margin: 10px;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.First {
+	display: flex;
+	justify-content: Center;
+	align-items: Center;
+}
+
+table, thead, tbody, tr, th, td {
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+.Season-2 {
+	color: green;
+	font-size: 20px; 
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+h3 {
+	color: purple;
+	text-align: auto;
+}
+
+.Reddit {
+	font-weight: bold;
+	font-size: 20px;
+	color: red;
+}
+
+#Natsuki-Subaru {
+	max-width: 100%;
+	height: auto;
+}
+
+iframe {
+	height: auto;
+	max-width: 100%;
+}
+
+img {
+	width: 300px;
+}
