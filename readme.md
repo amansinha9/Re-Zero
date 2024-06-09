@@ -10,8 +10,8 @@ Welcome to Re:Zero Anime World, your one-stop shop for all your Re:Zero needs! E
 
 ## Get started with Re:Zero Anime World today!
 
-1. Browse through our catalog
-2. Create an account
-3. Start watching  
+1. Browse through our catalog: Categorized by popularity, release date, and more.
+2. Create an account: Access personalized features like watchlist and community interactions.
+3. Start watching: Enjoy unlimited streaming of your favorite anime, all in high quality.
 
 ## Screenshots 
